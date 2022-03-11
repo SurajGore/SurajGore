@@ -13,7 +13,7 @@
 ✔ Callme: ***Suraj Gore*** or ***TeamWorker*** 😊 <br>
 <!-- ✔ 🔭 I’m currently working on [Meraki](https://github.com/navgurukul/sansaar)<br> -->
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
-✔ 👨‍💻 All of my projects are available at [https://github.com/SurajGore93](https://github.com/SurajGore93)<br>
+✔ 👨‍💻 All of my projects are available at [https://github.com/SurajGore](https://github.com/SurajGore)<br>
 <!-- ✔ 📝 I regularly write articles on [https://medium.com/@SurajGore93](https://medium.com/@SurajGore93)<br> -->
 ✔ 📫 How to reach me **surajgore93@gmail.com**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>

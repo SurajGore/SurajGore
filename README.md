@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=SurajGore93&label=Profile%20views&color=0e75b6&style=flat" alt="SurajGore93" /> </p>
+<p align="left"> <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=SurajGore&label=Profile%20views&color=0e75b6&style=flat" alt="SurajGore93" /> </p>
 <p align="center">
   <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" height="200"/>
 </p>

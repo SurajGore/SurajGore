@@ -79,7 +79,7 @@
     </td>
 <td align="center" width="96">
       <a>
-        <img src="" width="40"/>
+        <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/Jquery.jpg" width="40"/>
       </a>
       <br>JQuery
     </td>

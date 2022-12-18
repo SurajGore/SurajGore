@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/w3_html5/w3_html5-ar21.svg" width="40"/>
+        <img src="file:///C:/Users/SURAJ/Downloads/w3-html5-iconsvg.svg" width="40"/>
       </a>
       <br>HTML
     </td>

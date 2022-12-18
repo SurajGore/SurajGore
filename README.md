@@ -37,7 +37,7 @@
     </td> -->
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/js.svg" width="40"/>
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/javascript/javascript-icon.svg" width="40"/>
       </a>
       <br>Javascript
     </td>
@@ -79,7 +79,7 @@
     </td> -->
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/bootstrap.svg" width="40"/>
+        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-icon.svg" width="40"/>
       </a>
       <br>Bootstrap
     </td>

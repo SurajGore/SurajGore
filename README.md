@@ -43,12 +43,6 @@
     </td>
 <td align="center" width="96">
       <a>
-        <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/JavaScript.jpeg" width="40"/>
-      </a>
-      <br>Javascript
-    </td>
-<td align="center" width="96">
-      <a>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
       </a>
       <br>NodeJS
@@ -76,6 +70,12 @@
         <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/CSS3.jpeg" width="40"/>
       </a>
       <br>CSS
+    </td
+ <td align="center" width="96">
+      <a>
+        <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/JavaScript.jpeg" width="40"/>
+      </a>
+      <br>Javascript
     </td>
  <td align="center" width="96">
       <a>

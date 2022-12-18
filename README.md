@@ -61,13 +61,13 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="file:///C:/Users/SURAJ/Downloads/w3-html5-iconsvg.svg" width="40"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_html5/index.html" width="40"/>
       </a>
       <br>HTML
     </td>
     <td align="center" width="96">
       <a>
-        <img src="file:///C:/Users/SURAJ/Downloads/w3-css-officialsvg.svg" width="40"/>
+        <img src="https://www.vectorlogo.zone/logos/w3_css/index.html" width="40"/>
       </a>
       <br>CSS
     </td>

@@ -31,15 +31,9 @@
   <tr>
 <td align="center" width="96">
       <a>
-        <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/JavaScript.jpeg" width="40"/>
-      </a>
-      <br>Angular JS
-    </td>
-<td align="center" width="96">
-      <a>
         <img src="" width="40"/>
       </a>
-      <br>
+      <br>Angular JS
     </td>
 <td align="center" width="96">
       <a>

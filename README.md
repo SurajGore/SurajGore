@@ -11,8 +11,8 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ✔ Callme: ***Suraj Gore*** or ***TeamWorker*** 😊 <br>
-✔ 🔭 I’m currently Searching A Job In Full Stack Development.I Have 6 Months Experience In Full Stack Development.<br>
-✔ 📝 I have extensive knowledge of Angular JS, Node JS, HTML, CSS, Bootstrap, JavaScript, MYSQL, MongoDB, Postman, GitHub<br> 
+✔ 🔭 I’m currently searching a job in full stack development.I have 6 month's experience in full stack development.<br>
+✔ 📝 I have extensive knowledge of Angular JS, Node JS, MYSQL, MongoDB, HTML, CSS, Bootstrap, JavaScript, JQuery, Postman, GitHub.<br> 
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/SurajGore](https://github.com/SurajGore)<br>
 ✔ 📫 How to reach me **surajgore93@gmail.com**<br>
@@ -24,7 +24,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Things I Know ... <i>Tools, languages, and other things that I like to work with.</i>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Things I Know ....--> <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
   <tr>
@@ -86,7 +86,7 @@
 </table>
 <br>
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<br> -->
+<br> Follow My Social Accounts -->
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Let's Connect ....***

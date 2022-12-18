@@ -77,6 +77,12 @@
       </a>
       <br>Bootstrap
     </td>
+<td align="center" width="96">
+      <a>
+        <img src="" width="40"/>
+      </a>
+      <br>JQuery
+    </td>
   </tr>
 </table>
 <br>

@@ -67,7 +67,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://github.com/soilshubham/soilshubham/blob/main/icons/css.svg" width="40"/>
+        <img src="file:///C:/Users/SURAJ/Downloads/w3-css-officialsvg.svg" width="40"/>
       </a>
       <br>CSS
     </td>

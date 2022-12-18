@@ -64,7 +64,7 @@
         <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/CSS3.jpeg" width="40"/>
       </a>
       <br>CSS
-    </td
+    </td>
  <td align="center" width="96">
       <a>
         <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/JavaScript.jpeg" width="40"/>

@@ -79,7 +79,7 @@
     </td> -->
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/util/preview.html?image=/logos/getbootstrap/getbootstrap-icon.svg" width="40"/>
+        <img src="https://commons.wikimedia.org/wiki/File:Bootstrap_logo.svg" width="40"/>
       </a>
       <br>Bootstrap
     </td>

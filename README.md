@@ -95,4 +95,4 @@
 	<a href="https://www.linkedin.com/in/suraj-gore-405847136/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://www.instagram.com/surajgore93/?next=%2F"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </a> 
-</p> -->
+</p>

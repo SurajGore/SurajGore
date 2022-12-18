@@ -61,7 +61,7 @@
     </td>
     <td align="center" width="96">
       <a>
-        <img src="https://www.vectorlogo.zone/logos/w3_html5/index.html" width="40"/>
+        <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/download.png" width="40"/>
       </a>
       <br>HTML
     </td>

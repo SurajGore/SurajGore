@@ -24,14 +24,13 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Things I Know ....***
-> <i>Tools, languages, and other things that I like to work with.</i>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Things I Know ... <i>Tools, languages, and other things that I like to work with.</i>
 <br>
 <table>
   <tr>
 <td align="center" width="96">
       <a>
-        <img src="" width="40"/>
+        <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/angularJS.JPG" width="40"/>
       </a>
       <br>Angular JS
     </td>

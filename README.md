@@ -11,10 +11,10 @@
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" />
 
 ✔ Callme: ***Suraj Gore*** or ***TeamWorker*** 😊 <br>
-<!-- ✔ 🔭 I’m currently working on [](https://github.com)<br> -->
+✔ 🔭 I’m currently Searching A Job In Full Stack Development.I Have 6 Months Experience In Full Stack Development.<br>
+✔ 📝 I have extensive knowledge of Angular JS, Node JS, HTML, CSS, Bootstrap, JavaScript, MYSQL, MongoDB, Postman, GitHub<br> 
 ✔ 🌱 I’m currently learning **everything 🤣**<br>
 ✔ 👨‍💻 All of my projects are available at [https://github.com/SurajGore](https://github.com/SurajGore)<br>
-<!-- ✔ 📝 I regularly write articles on [https://medium.com/@SurajGore93](https://medium.com/@SurajGore93)<br> -->
 ✔ 📫 How to reach me **surajgore93@gmail.com**<br>
 ✔ Ask from me anything you want, If I am alive I will answer within seconds 😉<br>
 ✔ Fun fact : *I Always try to learn something new and then sleep till it store in the brain* 😎<br><br><br><br>
@@ -29,43 +29,55 @@
 <br>
 <table>
   <tr>
-    <td align="center" width="96">
+<td align="center" width="96">
+      <a>
+        <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/JavaScript.jpeg" width="40"/>
+      </a>
+      <br>Angular JS
+    </td>
+<td align="center" width="96">
+      <a>
+        <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/JavaScript.jpeg" width="40"/>
+      </a>
+      <br>Node JS
+    </td>
+<td align="center" width="96">
       <a>
         <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/JavaScript.jpeg" width="40"/>
       </a>
       <br>Javascript
     </td>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a>
         <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="40"/>
       </a>
       <br>NodeJS
     </td>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a>
         <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" width="40"/>
       </a>
       <br>MySQL
     </td>
-    <td align="center" width="96">
+ <td align="center" width="96">
       <a>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/233px-Postgresql_elephant.svg.png" width="40"/>
       </a>
       <br>Mongodb
     </td>
-    <td align="center" width="96">
+<td align="center" width="96">
       <a>
         <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/download.png" width="40"/>
       </a>
       <br>HTML
     </td>
-    <td align="center" width="96">
+ <td align="center" width="96">
       <a>
         <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/CSS3.jpeg" width="40"/>
       </a>
       <br>CSS
     </td>
-    <td align="center" width="96">
+ <td align="center" width="96">
       <a>
         <img src="https://github.com/SurajGore/SurajGore/blob/Training-Period/Bootstrap_logo.svg.png" width="40"/>
       </a>
